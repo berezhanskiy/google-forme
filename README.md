@@ -5,7 +5,7 @@ Class HelperBase - super class for other helpers, contain basic functions IsElem
 Class GooglFormHelper - contain a set of functions for interaction with GooglForm webelements, filling the form.   
 Class ResponsFormHelper - for weblements from result page.
 
-Class BaseTest - for initialization browser and helpers.
+Class BaseTest - for initialization browser and helpers.       
 Class PositiveFormTests - for checking form with valid user-data, checking form submitting.
 Class NegativeFormTests - for negative form checks, such empty and invalid user-data.
 
