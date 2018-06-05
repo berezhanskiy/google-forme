@@ -2,7 +2,7 @@
 The autotests project for checking google-form
 
 Class HelperBase - super class for other helpers, contain basic functions IsElementPresent and Type.  
-Class GooglFormHelper - contain a set of functions for interaction with GooglForm webelements, filling the form.
+Class GooglFormHelper - contain a set of functions for interaction with GooglForm webelements, filling the form.   
 Class ResponsFormHelper - for weblements from result page.
 
 Class BaseTest - for initialization browser and helpers.
